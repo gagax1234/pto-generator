@@ -1,0 +1,12 @@
+p f3 w3000 h3000 v180  E0 R0 n"PNG_m"
+m i0
+
+# image lines
+<template>
+<template_first_image>
+i w1920 h1920 f4 v180 Ra0 Rb0 Rc0 Rd0 Re0 Eev0 Er1 Eb1 r0 p0 y0 TrX0 TrY0 TrZ0 Tpy0 Tpp0 j0 a0 b0 c0 d0 e0 g0 t0 Va1 Vb0 Vc0 Vd0 Vx0 Vy0  Vm5 <first_file>
+</template_first_image>
+<template_image>
+i w1920 h1920 f4 v=0 Ra=0 Rb=0 Rc=0 Rd=0 Re=0 Eev0 Er1 Eb1 r0 p0 y0 TrX0 TrY0 TrZ0 Tpy0 Tpp0 j0 a=0 b=0 c=0 d=0 e=0 g=0 t=0 Va=0 Vb=0 Vc=0 Vd=0 Vx=0 Vy=0  Vm5 <file>
+</template_image>
+</template>
